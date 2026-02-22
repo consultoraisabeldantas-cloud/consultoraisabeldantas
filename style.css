@@ -128,7 +128,7 @@ nav ul li a:hover { color: var(--dourado); }
 .hero {
     height: 80vh;
     background: linear-gradient(rgba(0,51,102,0.7), rgba(0,51,102,0.7)), 
-                url('imagens/foto\ consultora.jpg') center/cover;
+                url('fotoconsultora.jpg') center/cover;
     display: flex; align-items: center; justify-content: center; text-align: center; color: white;
 }
 
@@ -178,7 +178,7 @@ nav ul li a:hover { color: var(--dourado); }
 /* IMAGENS ESPECÍFICAS */
 .bg-hero {
     padding-top: 120px !important;
-    background-image: url('imagens/foto\ consultora.jpg');
+    background-image: url('fotoconsultora.jpg');
     /* Mantenha as configurações abaixo para o efeito de fundo fixo */
     background-attachment: fixed;
     background-position: center;
@@ -187,7 +187,7 @@ nav ul li a:hover { color: var(--dourado); }
 }
 
 .bg-riva {
-    background-image: url('imagens/foto\ consultora\ 2.jpg');
+    background-image: url('fotoconsultora2.jpg');
 }
 
 /* Ajuste do Título */
